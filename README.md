@@ -8,9 +8,17 @@ The Iris dataset contains 150 samples from 3 species of iris flowers:
 - Iris Versicolour  
 - Iris Virginica
 
-**Features for each sample:**
+**🌸Features for each sample:**
 - Sepal Length (cm)
 - Sepal Width (cm)
 - Petal Length (cm)
 - Petal Width (cm)
+
+
+**🧠 Machine Learning Models Used:**
+- Logistic Regression
+- K-Nearest Neighbors (KNN)
+- Support Vector Machine (SVM)
+- Decision Tree Classifier
+- Random Forest Classifier
 
